@@ -1,0 +1,33 @@
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\Calculadora 2.0.exe.config
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\Calculadora 2.0.exe
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\Calculadora 2.0.pdb
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora_2._0.Form1.resources
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora_2._0.Properties.Resources.resources
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.exe
+C:\Users\HP\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.pdb
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\bin\Debug\Calculadora 2.0.exe.config
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\bin\Debug\Calculadora 2.0.exe
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\bin\Debug\Calculadora 2.0.pdb
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora_2._0.Form1.resources
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora_2._0.Properties.Resources.resources
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.exe
+C:\Users\HP\Downloads\Calculadora 2.0\Calculadora 2.0\obj\Debug\Calculadora 2.0.pdb
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\bin\Debug\Calculadora 2.0.exe.config
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\bin\Debug\Calculadora 2.0.exe
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\bin\Debug\Calculadora 2.0.pdb
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora_2._0.Form1.resources
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora_2._0.Properties.Resources.resources
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora 2.0.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora 2.0.exe
+C:\Users\HP\Downloads\Programacion-1-main\Calculadora 2.0\obj\Debug\Calculadora 2.0.pdb
